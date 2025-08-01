@@ -18,6 +18,4 @@ estrategias de retención.
 ## ✅ Estado del proyecto
 Finalizado
 
-
-
 Desarrollado por **Erik Gonzales**
